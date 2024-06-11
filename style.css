@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-container {
+    text-align: center;
+}
+
+.centered-container h1 {
+    margin-bottom: 20px;
+    color: darkgreen;
+}
+
+.centered-container p {
+    margin: 10px 0;
+}
